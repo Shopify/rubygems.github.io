@@ -17,7 +17,6 @@ The following is a non-exhaustive list of the improvements included in the above
 - merged some improvements to  RDoc  documentation - [#5396](https://github.com/rubygems/rubygems/pull/5396), [#5398](https://github.com/rubygems/rubygems/pull/5398), [#5399](https://github.com/rubygems/rubygems/pull/5399).
 - enable `net-http-persistent` in sync with the version we use in vendor - [#5394](https://github.com/rubygems/rubygems/pull/5394).
 - merged a PR that reports Github Actions as a CI provider within user agent string by checking the `GITHUB_ACTIONS` env variable - [#5400](https://github.com/rubygems/rubygems/pull/5400).
-- added Cargo builder for Rust extensions, currently still in experimental phase, will be stable around RubyGems 3.2 release - [#5175](https://github.com/rubygems/rubygems/pull/5175).
 
 In March, RubyGems gained [145 new commits](https://github.com/rubygems/rubygems/compare/master@%7B2022-03-01%7D...master@%7B2022-03-31%7D), contributed by 14 authors. There were 1622 additions and 167 deletions across 88 files.
 
